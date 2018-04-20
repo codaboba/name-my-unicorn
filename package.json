@@ -1,0 +1,25 @@
+{
+  "name": "name-my-unicorn",
+  "version": "1.0.0",
+  "description": "Randomly generate partial or full names for your unicorn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codaboba/name-my-unicorn.git"
+  },
+  "keywords": [
+    "unicorn",
+    "name",
+    "generate",
+    "random"
+  ],
+  "author": "Hong Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codaboba/name-my-unicorn/issues"
+  },
+  "homepage": "https://github.com/codaboba/name-my-unicorn#readme"
+}

@@ -4,6 +4,16 @@
 
 `name-my-unicorn` is library of names that are suitable for naming magical creatures. The library is exported as an object with several properties and methods.
 
+![unicorn gif](https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif)
+
+*Image: Walter Newton*
+
+## Installation
+
+```bash
+$ npm install --save name-my-unicorn
+```
+
 
 
 ## How to use it
@@ -35,3 +45,6 @@ fullName = nameMyUnicorn.createName();
 console.log(fullName);
 // "Silver Rocket"
 ```
+### License
+
+[MIT](https://github.com/codaboba/name-my-unicorn/blob/master/LICENSE) © 2018 Hong Le
